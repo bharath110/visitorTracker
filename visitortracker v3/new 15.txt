@@ -1,0 +1,24 @@
+
+
+{
+  "fromPlace": "Texas",
+  "email": "john@gmail.com",
+  "isCarryingItems": true,
+  "items": [
+    {
+      "barcode": "986ds1f6s84g6d513hs51s31t15h3trh4fdg89f4dg13fd1g84",
+      "description": "Dell Laptop",
+      "name": "Laptop"
+    },
+    {
+      "barcode": "61f8sd6fs4gd4sga151h36d14h8d14s6146ga11d13fa51ds6f",
+      "description": "Apple iPhone",
+      "name": "iPhone"
+    }
+  ],
+  "location": "Bangalore (Corporate)",
+  "name": "John Doe",
+  "mobile": "9876543210",
+  "purpose": "Interview",
+  "meetingPerson": "Paul Smith"
+}

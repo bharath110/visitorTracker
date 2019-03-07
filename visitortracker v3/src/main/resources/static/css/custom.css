@@ -1,0 +1,173 @@
+.appTitle {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 35px;
+	letter-spacing: -0.6px;
+	word-spacing: -2.6px;
+	color: #6095C4;
+	font-weight: 700;
+}
+
+.inVisitor {
+	background-color: #d6114f;
+}
+
+.outVisitor {
+	background-color: #096018;
+}
+
+body {
+	background-image: "/images/welcome_background.jpg";
+}
+
+.tableTitle {
+	margin-left: 482px;
+}
+
+table {
+	background-color: #fdfdfd !important;
+}
+
+.processing {
+	width: 15%;
+	height: 125px;
+	overflow: none;
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	margin: auto;
+	opacity: 1;
+	z-index: 10001;
+	border-radius: 15px;
+	background: #222222 url(/images/spinner.gif) no-repeat center 10px;
+	font-weight: bold;
+}
+
+.tabBgColor {
+	background-color: aliceblue !important;
+}
+
+th, td {
+	vertical-align: middle !important;
+	text-align: center !important;
+}
+
+.imgSize {
+	height: 150px;
+	width: 200px;
+}
+
+.labelValign {
+	vertical-align: top !important;
+}
+
+.card {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	max-width: 300px;
+	margin: auto;
+	text-align: center;
+	font-family: arial;
+	border: blue !important;
+}
+
+.cardTitle {
+	color: grey;
+	font-size: 18px;
+}
+
+.cardSpan {
+	text-decoration: none;
+	font-size: 22px;
+	color: black;
+}
+
+.abc:hover a {
+	color: #000 !important;
+	background: #ddd !important;
+}
+
+.abc a {
+	color: #fff !important;
+}
+
+.nav-tabs>li>a {
+	margin-right: 2px !important;;
+	line-height: 1.42857143 !important;;
+	border: 1px solid transparent !important;;
+	border-radius: 4px 4px 0 0 !important;;
+}
+
+.nav>li>a {
+	position: relative !important;;
+	display: block !important;;
+	padding: 10px 15px !important;;
+}
+
+.nav-tabs>li>a {
+	margin-right: 2px !important;;
+	line-height: 1.42857143 !important;;
+	border: 1px solid rgba(200, 233, 241, 1) !important;;
+	background-color: rgba(200, 233, 241, 1);
+	border-radius: 4px 4px 0 0 !important;
+	color: black !important;
+}
+
+.nav>li>a {
+	position: relative !important;;
+	display: block !important;;
+	padding: 10px 15px !important;;
+}
+
+.idCardHolder {
+	align: center;
+	 width : 225px;
+	padding: 4px;
+	margin: 0 auto;
+	background-color: black;
+	border-radius: 10px;
+	position: relative;
+	width: 225px;
+}
+
+.idCard {
+	background-color: #fff;
+	padding: 10px;
+	border-radius: 10px;
+	text-align: center;
+	box-shadow: 0 0 1.5px 0px #b9b9b9;
+}
+
+.idCard img {
+	margin: 0 auto;
+}
+
+.idCard img {
+	width: 100px;
+	margin-top: 15px;
+}
+
+.photo img {
+	width: 80px;
+	margin-top: 15px;
+}
+
+h2 {
+	font-size: 15px;
+	margin: 5px 0;
+}
+
+h3 {
+	font-size: 12px;
+	margin: 2.5px 0;
+	font-weight: 300;
+}
+
+.qr-code img {
+	width: 50px;
+}
+
+p {
+	font-size: 5px;
+	margin: 2px;
+}

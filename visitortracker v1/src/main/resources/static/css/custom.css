@@ -1,0 +1,42 @@
+.appTitle {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 35px;
+	letter-spacing: -0.6px;
+	word-spacing: -2.6px;
+	color: #6095C4;
+	font-weight: 700;
+}
+
+.inVisitor {
+	background-color: #fd8ea2;
+}
+
+.outVisitor {
+	background-color: #ccffcc;
+}
+body{
+	background-color: gery;
+}
+.tableTitle{
+	margin-left: 482px;
+	
+}
+table{
+	background-color: #fdfdfd !important;
+}
+.processing {
+	width: 15%;
+	height: 125px;
+	overflow: none;
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	margin: auto;
+	opacity: 1;
+	z-index: 10001;
+	border-radius: 15px;
+	background: #222222 url(/images/spinner.gif) no-repeat center 10px;
+	font-weight: bold;
+}
